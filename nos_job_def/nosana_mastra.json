@@ -4,7 +4,7 @@
       "id": "agents",
       "args": {
         "gpu": true,
-        "image": "docker.io/yourusername/agent-challenge:latest",
+        "image": "harshsharma29/agent-challenge:latest",
         "expose": [
           {
             "port": 8080
@@ -26,3 +26,4 @@
   "type": "container",
   "version": "0.1"
 }
+
