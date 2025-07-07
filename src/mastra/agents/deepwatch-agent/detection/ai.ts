@@ -95,7 +95,7 @@ Format your response as JSON:
     const response = await fetch(process.env.OPENROUTER_API_URL || "https://openrouter.ai/api/v1/chat/completions", {
       method: "POST",
       headers: {
-        "Authorization": `Bearer ${process.env.OPENROUTER_API_KEY}`,
+        "Authorization": `Bearer ${'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'}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({

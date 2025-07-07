@@ -64,9 +64,9 @@ export const deepwatchTool = createTool({
 			findings: riskAnalysis.findings,
 			summary: riskAnalysis.summary,
 			recommendations: riskAnalysis.recommendations,
-			aiSummary,
+			// aiSummary,
 			ipfsHash,
-			// wallets: riskAnalysis.wallets,
+			wallets: riskAnalysis.wallets,
 			contractType: riskAnalysis.contractType,
 		};
 	},

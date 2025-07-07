@@ -76,7 +76,7 @@ docker run --rm -p 8080:8080 --env-file .env harshsharma29/agent-challenge:lates
 
 Below is a screenshot of the successful deployment of the DeepWatch agent on the Nosana network. This demonstrates that the Docker container was correctly built, pushed, and executed in the Nosana environment.
 
-![Nosana Deployment Page](assets/NosanaBuildersChallengeAgents.jpg)
+![Nosana Deployment Page](assets/image.png)
 
 - **Job Definition:**
   - Image: `docker.io/harshsharma29/agent-challenge:latest`
