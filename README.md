@@ -17,7 +17,7 @@ DeepWatch is an AI-powered smart contract auditing agent designed to analyze EVM
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/agent-challenge.git
+   git clone https://github.com/harshdev2909/agent-challenge.git
    cd agent-challenge
    ```
 2. **Install dependencies:**
